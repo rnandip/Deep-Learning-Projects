@@ -49,8 +49,9 @@ Set your Hugging Face token as an environment variable rather than hardcoding it
 
 ```bash
 export HF_TOKEN="your_token_here"
+export NGROK_AUTH_TOKEN="your_token_here"
 ```
-
+or add these keys in .env file
 ---
 
 ## Dataset
